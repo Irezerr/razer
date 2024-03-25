@@ -1,2 +1,2 @@
 kktt
-oj
+o
